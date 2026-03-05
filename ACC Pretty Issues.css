@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name           Pretty ACC Issues
+@namespace      github.com/xdkaplan/Stylus
+@version        1.0.0
+@description    Smaller pushpins for Issues in the ACC viewer
+@author         Alexander Kaplan
+==/UserStyle== */
 @-moz-document url-prefix("https://acc.autodesk.com/build/files/") {
     .pushpin-billboard-marker.selected {
         border: 2px solid rgba(255, 255, 255, .95);
