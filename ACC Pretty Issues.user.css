@@ -5,7 +5,7 @@
 @description    Smaller pushpins for Issues in the ACC viewer
 @author         Alexander Kaplan
 ==/UserStyle== */
-@-moz-document url-prefix("https://acc.autodesk.com/build/files/") {
+@-moz-document url-prefix("https://acc.autodesk.com/") {
     .pushpin-billboard-marker.selected {
         border: 2px solid rgba(255, 255, 255, .95);
         border-radius: 20px;
